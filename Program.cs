@@ -155,7 +155,6 @@ namespace Calorie_Counter_App
                 int userQuantity = IntInputChecker();
 
                 int empty = CheckSpace();
-                Console.WriteLine("Empty = " + empty);
                 if (empty == -1)
                 {
                     doubleArray();
