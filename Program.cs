@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Programmer: Brian Lee
+//Date: 06/18/2024
+
+//Title: CSI 120 Final: Calories Counter Application
+
+using System;
 using System.Text.RegularExpressions;
 
 namespace Calorie_Counter_App
